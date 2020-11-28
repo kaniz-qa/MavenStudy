@@ -9,6 +9,7 @@ Scenario: Login with correct user id and password
     And User entered correct password
      And User click on checkbox
     And User click on login
+    Then
     
       
 
